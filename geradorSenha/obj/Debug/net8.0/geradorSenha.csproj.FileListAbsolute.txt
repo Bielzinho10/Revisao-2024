@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\bin\Debug\net8.0\geradorSenha.exe
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\bin\Debug\net8.0\geradorSenha.deps.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\bin\Debug\net8.0\geradorSenha.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\bin\Debug\net8.0\geradorSenha.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\bin\Debug\net8.0\geradorSenha.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\refint\geradorSenha.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\geradorSenha.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Revisao-2024\geradorSenha\obj\Debug\net8.0\ref\geradorSenha.dll
